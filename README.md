@@ -7,7 +7,7 @@
 Về việc setup thì có 2 lựa chọn, dành cho 2 target khác nhau:
 
 - Những người đã cài VSCode về máy:
-  - Clone cái project này về máy: Bấm vào nút xanh "Code" ở trên góc bên phải, có cái nút "Download ZIP", tải về, giải nén ra sẽ có folder kiểu `...-master`.
+  - Clone cái project này về máy: Bấm vào nút xanh "Code" ở trên góc bên phải, có cái nút "Download ZIP", tải về, giải nén ra sẽ có folder kiểu `...-main`.
   - Mở folder đó bằng VSCode luôn!!!!!
   - Theo hướng dẫn này mà quất: https://code.visualstudio.com/docs/languages/java
   
