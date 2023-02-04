@@ -1,0 +1,3 @@
+# the-fooking-project
+
+Chấm
